@@ -10,16 +10,6 @@ Sistema web para gerenciamento de eventos, permitindo cadastro, edição, visual
 * Gerenciamento de participantes
 * Visualização de detalhes do evento
 
-## 🛠️ Tecnologias Utilizadas
-
-> Ajuste conforme o que você usou de verdade
-
-* Python
-* FastAPI / Flask / Django
-* HTML / CSS / JavaScript
-* Banco de Dados: SQLite / PostgreSQL / MySQL
-* ORM: SQLAlchemy
-
 ## 📂 Estrutura do Projeto
 
 ```
