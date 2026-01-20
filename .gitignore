@@ -1,1 +1,26 @@
+# Ambiente virtual
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Variáveis de ambiente
+.env
+
+# Banco de dados local
+*.db
+
+
+git rm -r --cached __pycache__
+git rm -r --cached app/__pycache__
+git rm -r --cached app/config/__pycache__
+git rm -r --cached app/modelos/__pycache__
+git rm -r --cached app/rotas/__pycache__
+git rm --cached .env
+git rm --cached eventos.db
+
 
